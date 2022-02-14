@@ -24,10 +24,13 @@ img{
 	display: none;
 }
 /*title uppercased below banner*/
-b{
+#title{
 	text-transform: uppercase;
 	color: #33485e;
 	font-size: 1.5em;
+	font-weight: 600;
+	text-align: center;
+	margin: 20px 0 0 0;
 }
 /*these are the name of section*/
 .sectionheader {
@@ -78,4 +81,11 @@ display: inline;
 
 #do{
 	margin: 5px 0 0 0;
+}
+
+#container{
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 50px;
 }
