@@ -51,12 +51,31 @@ b{
 	font-size: 1.25em;
 }
 /*these are the dates of experience*/
-h5{
+.dates {
 	font-weight: 400;
 	font-style: italic;
 	font-size: 1em;
+	margin-top: 2px;
 }
 /*these are the lists of experience, skills, and contact information*/
 ul li{
 	font-size: 1em;
+}
+
+.menu{ 
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.menu li{
+display: inline;
+}
+
+#degrees{
+	margin: 5px 0 0 0;
+}
+
+#do{
+	margin: 5px 0 0 0;
 }
