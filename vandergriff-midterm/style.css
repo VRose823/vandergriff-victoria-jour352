@@ -27,7 +27,7 @@
 h1 {
 	font-family: Helvetica, sans-serif;
 }
-
+/* I changed the font to Roboto here */
 p {
 	font-family: Roboto, serif;
 	font-size: 16px;
@@ -52,5 +52,5 @@ blockquote{
 }
 .graphic figcaption{
 	font-size: 12px;
-	font-style: italic;
+	font-style: bold;
 }
