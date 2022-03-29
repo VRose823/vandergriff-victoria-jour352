@@ -27,10 +27,14 @@
 h1 {
 	font-family: Helvetica, sans-serif;
 }
-/* I changed the font to Roboto here */
+
+h2{
+	font-family: Generic, sans-serif;
+}
+
 p {
-	font-family: Roboto, serif;
-	font-size: 16px;
+	font-family: Helvetica, serif;
+	font-size: 12px;
 	line-height: 18px;
 }
 
@@ -50,7 +54,9 @@ blockquote{
 	width: 900px;
 	text-align: center;
 }
+/* I changed the font size here */
+
 .graphic figcaption{
-	font-size: 12px;
-	font-style: bold;
+	font-size: 14px;
+	font-style: italic;
 }
