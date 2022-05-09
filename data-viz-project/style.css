@@ -7,10 +7,9 @@
 	text-align: center;
 	position: relative;
 	color: white;
-	font-style: bold;
-	font-family: Lato, sans-serif;
 
-}
+	}
+
 #centered{
 	color: black;
 	position: absolute;
@@ -19,6 +18,8 @@
 	transform: translate(-50%, -50%);
 	font-size: 3em;
 	font-style: bold;
+	font-family: Lato, sans-serif;
+	font-weight: 900;
 }
 
 #byline{
@@ -38,12 +39,13 @@ p {
 }
 
 blockquote{
-	background-color: black;
+	background-color: white;
 	font-size: 2em;
-	color: white;
+	color: black;
 	padding: 5px;
 	text-align: center;
 }
+
 .images figcaption{
 	font-size: 10px;
 	font-style: italic;
